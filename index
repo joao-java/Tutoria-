@@ -13,26 +13,32 @@
         <h1>Estrutura do HTML5</h1>
 
         <header>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt at harum labore odio eius ipsa officia nostrum illum, fugiat, nam facilis. Esse repellendus excepturi deserunt, vero illo praesentium maiores fugit!</p>
 
             <nav>
+                <ul>
+                    <li><a href="#">home</a></li>
+                    <li><a href="#">home</a></li>
+                    <li><a href="#">home</a></li>
+                </ul>
 
             </nav>
         </header>
 
         <section>
-
+            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Distinctio doloremque labore non esse aliquid explicabo dicta, dolorum repudiandae sequi, voluptatum ducimus natus quis voluptas molestias tempora? Exercitationem molestias blanditiis perferendis.</p>
         </section>
-
+            
         <article>
-
+            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cupiditate autem id sapiente minima fuga nemo soluta aspernatur quibusdam alias natus! Autem voluptatibus consequatur dolorem quaerat! Saepe impedit aliquam suscipit voluptatem!</p>
         </article>
 
         <footer>
-
+            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur esse voluptate animi in exercitationem, delectus nemo necessitatibus magnam quod tempora dolore explicabo! Nesciunt repellendus ullam fugit iste, animi voluptates ut?</p>
         </footer>
 
         <aside>
-
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint numquam dignissimos eaque culpa saepe maiores officia animi consequatur non itaque placeat minus est maxime consequuntur, nihil quo! Itaque, aliquid sit.</p>
         </aside>
     </div>
     
